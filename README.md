@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:f59e0b&height=200&section=header&text=Jerrie%20Adah&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=KINGDOMDEV%20%E2%80%A2%20Backend%20%26%20AI%20Automation%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Jerrie Adah banner" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/AdahJerrie">
